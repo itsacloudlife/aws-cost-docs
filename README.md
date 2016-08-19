@@ -12,6 +12,7 @@ _Documentation for AWS cost tools and some methods to help use them_
 [AWS TCO White Paper](http://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf)
 
 ## Cost Explorer
+
 Cost explorer is a tool provided by AWS to examine costs, and provides a certain amount of interactive capabilities. It's capabilities are bolstered by using tags to sort resources.
 
 [Enable Cost Explorer](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-explorer-signup.html)
